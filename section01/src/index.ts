@@ -1,3 +1,4 @@
 
-console.log("Hello TypeScript");
-const a: number = 1;
+// export{}  //독립된 모듈
+
+const a = 1;

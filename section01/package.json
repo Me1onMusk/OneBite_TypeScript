@@ -2,6 +2,7 @@
   "name": "section01",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@types/node": "^22.10.2"
+    "@types/node": "^22.10.2",
+    "undici": "^7.2.0"
   }
 }
